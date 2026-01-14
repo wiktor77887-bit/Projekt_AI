@@ -1,5 +1,2 @@
 .venv/
-YawDD_dataset/
 __pycache__/
-*.mp4
-*.avi
