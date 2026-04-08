@@ -1,4 +1,4 @@
-Real-Time Driver Drowsiness Detection System 🚗👁️
+Real-Time Driver Drowsiness Detection System
 Overview
 A Computer Vision Proof of Concept (PoC) designed to monitor driver alertness in real-time. The system processes video streams (RGB, 30 fps) to extract facial landmarks and computes the Eye Aspect Ratio (EAR) to detect microsleeps and prolonged fatigue.
 
@@ -34,6 +34,7 @@ python main.py
 Note: You can switch between CAMERA (live webcam feed) and DATASET mode inside the main.py configuration block.
 
 Controls
+
 q - Quit the application
 
 n - Skip to the next video (Dataset mode)
