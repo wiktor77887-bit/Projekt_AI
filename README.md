@@ -1,6 +1,3 @@
-Treść wiadomości Gemini
-Oto tekst do skopiowania, sformatowany jako czysty plik Markdown. Bez problemu użyjesz go jako README.md w swoim repozytorium na GitHubie.
-
 Real-Time Driver Drowsiness Detection System 🚗👁️
 Overview
 A Computer Vision Proof of Concept (PoC) designed to monitor driver alertness in real-time. The system processes video streams (RGB, 30 fps) to extract facial landmarks and computes the Eye Aspect Ratio (EAR) to detect microsleeps and prolonged fatigue.
